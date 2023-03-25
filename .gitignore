@@ -4,5 +4,4 @@
 .vscode/launch.json
 .vscode/ipch
 
-serial_data.csv
-brightness_data.csv
+*.o
